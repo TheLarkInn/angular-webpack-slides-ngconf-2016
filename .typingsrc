@@ -1,0 +1,8 @@
+rejectUnauthorized=false
+httpsProxy=
+httpProxy=
+proxy=
+noProxy=https://api.typings.org
+key=
+cert=
+ambient=true
